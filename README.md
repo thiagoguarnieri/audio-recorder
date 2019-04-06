@@ -7,5 +7,9 @@ An Legacy visual basic audio recorder application.
   <li>Split audio in segments of fixed length</li>
 </ul>
 
+
+<h1>Instruction</h1>
+Copy ocx files to c:\windows\system and execute.
+
 <h1>Screenshot</h1>
 <img src="http://casadasfestasjf.com/others/imagem.jpg"></img>

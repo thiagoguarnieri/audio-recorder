@@ -7,4 +7,5 @@ An Legacy visual basic audio recorder application.
   <li>Split audio in segments of fixed length</li>
 </ul>
 
+<h1>Screenshot</h1>
 <img src="http://casadasfestasjf.com/others/imagem.jpg"></img>

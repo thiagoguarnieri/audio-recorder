@@ -1,5 +1,6 @@
 <h1>Audio Recorder</h1>
-An Legacy visual basic audio recorder application. 
+An Legacy visual basic audio recorder application. <br/>
+Useful to have an stored history of a radio broadcast
 
 <h1>Features</h1>
 <ul>

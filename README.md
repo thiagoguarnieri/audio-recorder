@@ -1,6 +1,7 @@
 <h1>Audio Recorder</h1>
 An Legacy visual basic audio recorder application. <br/>
-Useful to have an stored history of a radio broadcast
+Useful to have an stored history of a radio broadcast<br/>
+Work in Windows 7 and above via compatibility mode
 
 <h1>Features</h1>
 <ul>
